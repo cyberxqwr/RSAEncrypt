@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSAEncrypt", "RSAEncrypt\RSAEncrypt.csproj", "{03A181E1-57B7-4EF6-9184-E698B1C8A985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A181E1-57B7-4EF6-9184-E698B1C8A985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A181E1-57B7-4EF6-9184-E698B1C8A985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A181E1-57B7-4EF6-9184-E698B1C8A985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A181E1-57B7-4EF6-9184-E698B1C8A985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC82214-CEE9-4DFD-869D-9C4FFA036481}
+	EndGlobalSection
+EndGlobal
