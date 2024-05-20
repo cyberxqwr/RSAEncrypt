@@ -1,0 +1,13 @@
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\bin\Debug\net9.0\SocketClient.exe
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\bin\Debug\net9.0\SocketClient.dll.config
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\bin\Debug\net9.0\SocketClient.deps.json
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\bin\Debug\net9.0\SocketClient.runtimeconfig.json
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\bin\Debug\net9.0\SocketClient.dll
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\bin\Debug\net9.0\SocketClient.pdb
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\obj\Debug\net9.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\obj\Debug\net9.0\SocketClient.csproj.CoreCompileInputs.cache
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\obj\Debug\net9.0\SocketClient.dll
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\obj\Debug\net9.0\refint\SocketClient.dll
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\obj\Debug\net9.0\SocketClient.pdb
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\obj\Debug\net9.0\SocketClient.genruntimeconfig.cache
+E:\C#\CollegeStuff\Saugumas\SocketClient\SocketClient\obj\Debug\net9.0\ref\SocketClient.dll

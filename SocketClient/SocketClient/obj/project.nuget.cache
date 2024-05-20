@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/ltBm2OpchnYHQcQoafk4HDuLDYEB5LObksbKuvfZ0OXn7OoC4jTgyTBAjZq9Q7pO33Wg4+Ctnc+k5qz06qPQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\CollegeStuff\\Saugumas\\SocketClient\\SocketClient\\SocketClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CyEm\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\CyEm\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
