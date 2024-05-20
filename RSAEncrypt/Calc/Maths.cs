@@ -29,6 +29,8 @@ namespace RSAEncrypt.Calc
 
         public Maths() { }
 
+        // Values aquisition below
+
         public BigInteger E(BigInteger phi) { return GetE(phi); }
 
         private BigInteger GetE(BigInteger phi)
@@ -72,6 +74,8 @@ namespace RSAEncrypt.Calc
             return d;
         }
 
+        // Conversions from text to ASCII
+
         public List<BigInteger> ASCII (string text) { return AsciiConverter(text); }
 
         private List<BigInteger> AsciiConverter(string text)
@@ -87,6 +91,8 @@ namespace RSAEncrypt.Calc
             return result;
         }
 
+        // Regular Encryption
+
         public List<BigInteger> ENCRYPT(BigInteger e, List<BigInteger> AsciiVals, BigInteger n) { return EncryptRSA(e, AsciiVals, n); }
 
         private List<BigInteger> EncryptRSA(BigInteger e, List<BigInteger> AsciiVals, BigInteger n)
@@ -96,7 +102,24 @@ namespace RSAEncrypt.Calc
             foreach (BigInteger val in AsciiVals)
             {
 
-                tempVals.Add((val ^ e) % n);
+                tempVals.Add(BigInteger.ModPow(val, e, n));
+            }
+
+            return tempVals;
+        }
+
+        // Digital Signature encryption
+
+        public List<BigInteger> ENCRYPTDS(BigInteger d, List<BigInteger> AsciiVals, BigInteger n) { return EncryptDS(d, AsciiVals, n); }
+
+        private List<BigInteger> EncryptDS(BigInteger d, List<BigInteger> AsciiVals, BigInteger n)
+        {
+
+            List<BigInteger> tempVals = new List<BigInteger>();
+            foreach (BigInteger val in AsciiVals)
+            {
+
+                tempVals.Add(BigInteger.ModPow(val, d, n));
             }
 
             return tempVals;
@@ -154,7 +177,7 @@ namespace RSAEncrypt.Calc
             }
 
             List<BigInteger> decodedValues = new List<BigInteger>();
-            for (int i = 0; i < asciiVals.Count; i++) decodedValues.Add((asciiVals[i] ^ D) % n);
+            for (int i = 0; i < asciiVals.Count; i++) decodedValues.Add(BigInteger.ModPow(asciiVals[i], D, n));
 
             return decodedValues;
         }
