@@ -1,0 +1,13 @@
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.csproj.CoreCompileInputs.cache
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.exe
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.dll.config
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.deps.json
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.runtimeconfig.json
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.dll
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\bin\Debug\net9.0\SocketServer.pdb
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.dll
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\obj\Debug\net9.0\refint\SocketServer.dll
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.pdb
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\obj\Debug\net9.0\SocketServer.genruntimeconfig.cache
+E:\C#\CollegeStuff\Saugumas\SocketServer\SocketServer\obj\Debug\net9.0\ref\SocketServer.dll
